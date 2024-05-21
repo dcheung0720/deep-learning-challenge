@@ -12,13 +12,15 @@ Results: Using bulleted lists and images to support your answers, address the fo
 
 <h2>Compiling, Training, and Evaluating the Model</h2>
 <ul>
-    <li>How many neurons, layers, and activation functions did you select for your neural network model, and why?</li>
-    <li>Were you able to achieve the target model performance?</li>
-    <li>What steps did you take in your attempts to increase model performance?</li>
-
+    <li>How many neurons, layers, and activation functions did you select for your neural network model, and why? I used 6 layers, each with about 400 units and used sigmoid, tanh, and relu for their activation functions because these combinations have the highest validation accuracy.</li>
+    <li>Were you able to achieve the target model performance? I was unable to achieve the target accuracy of 75%. The highest validation accuracy I was able to obtain was 73%.</li>
+    <li>What steps did you take in your attempts to increase model performance? To increase my model performance, I tried to tune my parameters using Keras's HyperBand module. I tested across different activation function across different hidden layers, different number of hidden layers, learning rate, number of units, and adding regularization with dropout.  </li>
 </ul>
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take in your attempts to increase model performance?
+<h2>Summary:</h2>
+<ul>
+    <li></li>
+    <li></li>
+</ul>
+
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
