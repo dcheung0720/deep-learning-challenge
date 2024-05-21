@@ -19,8 +19,7 @@ Results: Using bulleted lists and images to support your answers, address the fo
 
 <h2>Summary:</h2>
 <ul>
-    <li></li>
-    <li></li>
+    <li>Overall, the model achieved a peak performance of 73% validation accuracy, which is very good for the sake of classification. However, the model is not good for consulting because the explainability is low; it is near impossible to explain to clients why the model predicts a charity is successful or not. Instead, to increase more explainability, we may use an algorithmic ML model such as decision trees and random forests that classify based on each input feature, so we can tell exactly why a model decides a classification and be able to communicate with our clients. </li>
 </ul>
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
