@@ -1,5 +1,5 @@
 # Charity Prediction Analysis
-<p>Note: main code file is named "CharityDataPrediction.ipynb" in the root directory and its associated model is located in the "first_model" directory with the file name "AlphabetSoupCharity.h5." The other code file that was used to optimize in Collab is named "AlphabetSoupCharity_Optimization.ipynb" located in the "googleCollab" directory and its associated model is named "bestModel.h5" located in the best_model directory.</p>
+<p>Note: main code file is named "CharityDataPrediction.ipynb" in the root directory and its associated model is located in the "first_model" directory with the file name "AlphabetSoupCharity.h5." The other code file that was used to optimize in Collab is named "AlphabetSoupCharity_Optimization.ipynb" located in the "googleCollab" directory and its associated model is named "AlphabetSoupCharity_Optimization.h5" located in the best_model directory.</p>
 Overview of the analysis: The purpose of the analysis is to create a model that predict whether a charity will be successful by features such as organizations, ask amount, and income amount, etc.
 
 <h2>Data Preprocessing</h2>
